@@ -45,7 +45,7 @@
 		"typescript": "5.0.4",
 		"vite": "4.3.8",
 		"vitest": "0.31.1",
-		"postcss": "^8.4.23",
+		"postcss": "^8.4.31",
 		"postcss-load-config": "^4.0.1",
 		"svelte-preprocess": "^5.0.3",
 		"autoprefixer": "^10.4.14",
